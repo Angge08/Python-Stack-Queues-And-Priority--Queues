@@ -14,3 +14,5 @@ class Queue:
 
     def enqueue(self, element):
         self._elements.append(element)
+
+class Stack(Queue):
