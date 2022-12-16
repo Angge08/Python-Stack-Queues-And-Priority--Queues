@@ -1,0 +1,2 @@
+from queue5_updated import PriorityQueue
+from dataclasses import dataclass

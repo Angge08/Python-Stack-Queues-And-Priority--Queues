@@ -1,4 +1,4 @@
-from queue5 import PriorityQueue
+from queue5_updated import PriorityQueue
 from dataclasses import dataclass
 
 CRITICAL = 3
