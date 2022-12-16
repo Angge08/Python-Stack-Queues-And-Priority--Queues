@@ -1,1 +1,2 @@
-from queue1 import Queue
+from queue1(updated) import Queue
+fifo = Queue()
