@@ -1,5 +1,3 @@
-# queues.py
-
 from collections import deque
 from heapq import heappop, heappush
 
@@ -30,4 +28,5 @@ class Stack(Queue):
 
         def dequeue(self):
             return heappop(self._elements)
+        
 
